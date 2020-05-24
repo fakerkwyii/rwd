@@ -1,0 +1,28 @@
+@charset "utf-8";
+.jb .bg-secondary {
+    background-color: rgba(0,0,0,0.05);
+
+
+
+}
+.syx  .form-control {
+}
+.syx .btn {
+}
+
+
+.news24 .list-group-item-secondary {
+    background-color: rgba(0,0,0,0.05);
+
+
+}
+.article .border-left {
+    border-left-width: 5px;
+
+important;
+    border-left-color: rgba(0,0,0,0.1) important;
+}
+.yzm .form-control {
+}
+.yzm .btn {
+}
